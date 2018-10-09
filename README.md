@@ -15,4 +15,4 @@ You can find a working prototype [here](http://htmlpreview.github.io/?https://gi
 
 A screenshot can be seen here:
 
-![screenshot]()
+![screenshot](https://github.com/austinpetsalive/heatmap/blob/master/example.png?raw=true)
