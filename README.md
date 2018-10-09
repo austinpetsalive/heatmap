@@ -9,3 +9,10 @@ requirements:
 
 3) ideally write using flask microservice and docker container
 
+# Prototype
+
+You can find a working prototype [here](http://htmlpreview.github.io/?https://github.com/austinpetsalive/heatmap/blob/master/index.htm). It only renders a heatmap, not zip code boundaries, but it's a start and requires no server infrastructure.
+
+A screenshot can be seen here:
+
+![screenshot]()
